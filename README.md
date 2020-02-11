@@ -4,7 +4,7 @@ This repository contains the input data, code and results used in our paper abou
 
 ## Input data 
 The foreseen used case of this tool is the study of alarm signals to detect anomalies early enough to take preventive actions. A subset of the data used by authors is present in [data/real](https://github.com/lfelsber/alarmsMining/data/real).
-A second source of data ([PEMS](?)) is used to show the universality of the framework.
+A second source of data ([PEMS](https://archive.ics.uci.edu/ml/datasets/PEMS-SF)) is used to show the universality of the framework.
 
 ## Code 
 
