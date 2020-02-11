@@ -9,8 +9,7 @@ A second source of data ([PEMS](https://archive.ics.uci.edu/ml/datasets/PEMS-SF)
 ## Code 
 
 ## Prerequisites
-All python packages needed are listed in [pip-requirements.txt](https://github.com/lfelsber/alarmsMining/pip-requirem
-ents.txt) file and can be installed simply using the pip command. 
+All python packages needed are listed in [pip-requirements.txt](https://github.com/lfelsber/alarmsMining/pip-requirements.txt) file and can be installed simply using the pip command.
 
 * [numpy](http://www.numpy.org/)  
 * [pandas](https://pandas.pydata.org/)  
