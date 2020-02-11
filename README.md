@@ -1,10 +1,10 @@
 # Alarms Mining
 
-This repository contains the input data, code and results used in our paper about alarm mining, [title?](link?). This work is based on two repositories, [dl-4-tsc](https://github.com/hfawaz/dl-4-tsc) for the classification of time series using deep learning algorithms and [iNNvestigate](https://github.com/albermax/innvestigate) for the explanatory part. Both repositories received minor changes to be compatible with our framework.
+This repository contains the input data, code and results used in our paper about alarm mining, [Analyzing Failure Mechanisms in Complex Infrastructures](link?). This work is based on two repositories, [dl-4-tsc](https://github.com/hfawaz/dl-4-tsc) for the classification of time series using deep learning algorithms and [iNNvestigate](https://github.com/albermax/innvestigate) for the explanatory part. Both repositories received minor changes to be compatible with our framework.
 
 ## Input data 
 The foreseen used case of this tool is the study of alarm signals to detect anomalies early enough to take preventive actions. A subset of the data used by authors is present in [data/real](https://github.com/lfelsber/alarmsMining/data/real).
-A second source of data is used to show the universality of the framework [PEMS](?)
+A second source of data ([PEMS](?)) is used to show the universality of the framework.
 
 ## Code 
 
