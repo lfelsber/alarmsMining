@@ -74,7 +74,7 @@ t_p_range=[0,1,2,4,8]
 p0_target_range = [0.5]
 testRatio_range = [0.6,0.5,0.4,0.3,0.2,0.1,0.0]
 y_column_range = [0,2,5,7,12]
-rootDirData = '../data/PEMS_test'
+rootDirData = '../data/PEMSExperimentResults'
 time_frame=['2008-03-10 00:00:00','2009-03-08 00:00:00']
 
 train_test_val=True

@@ -74,7 +74,7 @@ output_variables=['FAULT_MEMBER', # not relevant in this script
 p0_target_range = [0.8]
 testRatio_range = [.50,.45,.40,.35,.30,.25,.20, 0.]
 y_column_range = [0]
-rootDirData = '../data/syntheticExperiment'
+rootDirData = '../data/syntheticExperimentResults'
 
 external_fnames=None
 time_frame=['2015-01-01 00:00:00','2018-01-01 00:00:00']

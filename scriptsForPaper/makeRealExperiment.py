@@ -75,7 +75,7 @@ output_variables=['FAULT_MEMBER',
 p0_target_range = [0.8]
 testRatio_range = [.50,.45,.40,.35,.30,.25,.20, 0.]
 y_column_range = [0,1,2,3,4,5,6,7,8,9]
-rootDirData = '../data/realExperiment'
+rootDirData = '../data/realExperimentResults'
 
 external_fnames=['../data/external_input/PSB_EC_10min.csv','../data/external_input/PSB_beam_10min.csv']
 time_frame=['2015-01-01 00:00:00','2018-01-01 00:00:00']

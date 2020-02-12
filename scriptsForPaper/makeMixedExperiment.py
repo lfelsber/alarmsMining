@@ -75,7 +75,7 @@ output_variables=['FAULT_MEMBER',
 p0_target_range = [0.8]
 testRatio_range = [0.,.50,.45,.40,.35,.30,.25,.20, 0.]
 y_column_range = [54]#np.arange(1,7)
-rootDirData = '../data/mix_real_fake_final'
+rootDirData = '../data/MixedExperimentResults'
 
 external_fnames=['../data/external_input/PSB_EC_10min.csv','../data/external_input/PSB_beam_10min.csv']
 time_frame=['2015-01-01 00:00:00','2018-01-01 00:00:00']
