@@ -5,7 +5,7 @@ astor==0.8.1
 attrs==19.3.0
 bleach==2.1.2
 Brlapi==0.6.6
-certifi==2018.1.18
+certifi==2022.12.7
 chardet==3.0.4
 command-not-found==0.3
 coverage==5.0.3
